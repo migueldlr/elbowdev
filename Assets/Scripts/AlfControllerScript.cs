@@ -14,10 +14,16 @@ public class AlfControllerScript : MonoBehaviour {
 	public LayerMask whatIsGround;
 	public float jumpForce = 300f;
 	bool doubleJump;
+	Vector2 start;
 
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator> ();
+		SetStart();
+	}
+
+	void SetStart(){
+		start = rigidbody2D.position;
 	}
 	
 	// Update is called once per frame
@@ -58,5 +64,9 @@ public class AlfControllerScript : MonoBehaviour {
 		Vector3 theScale = transform.localScale;
 		theScale.x *= -1;
 		transform.localScale = theScale;
+	}
+
+	void Die(){
+		transform.position = start;
 	}
 }
