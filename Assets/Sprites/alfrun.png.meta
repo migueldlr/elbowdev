@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: d4303499bc75ce14d8355d6164b42d38
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alfrun_0
+    21300002: alfrun_1
+    21300004: alfrun_2
+    21300006: alfrun_3
+    21300008: alfrun_4
+    21300010: alfrun_5
+    21300012: alfrun_6
+    21300014: alfrun_7
+    21300016: alfrun_8
+    21300018: alfrun_9
+    21300020: alfrun_10
+    21300022: alfrun_11
+    21300024: alfrun_12
+    21300026: alfrun_13
+    21300028: alfrun_14
+    21300030: alfrun_15
+    21300032: alfrun_16
+    21300034: alfrun_17
+    21300036: alfrun_18
+    21300038: alfrun_19
+    21300040: alfrun_20
+    21300042: alfrun_21
+    21300044: alfrun_22
+    21300046: alfrun_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alfrun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alfrun_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alfrun_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
