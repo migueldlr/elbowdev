@@ -2,7 +2,6 @@
 using System.Collections;
 
 public class AlfControllerScript : MonoBehaviour {
-
 	public float maxSpeed = 10f;
 	bool facingRight = true;
 
